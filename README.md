@@ -2,6 +2,7 @@
 **Bienvenidos al repositorio numa**
 
 ##Tema1
+
 Aqui va el [Tema1](https://github.com/yvinzo/NUMA/tree/main/Practica1)
 
 ##Tema2
