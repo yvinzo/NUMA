@@ -1,15 +1,17 @@
 # REPOSITORIO NUMA
 **Bienvenidos al repositorio numa**
 
-##Tema1
+## Tema1
 
 Aqui va el [Tema1](https://github.com/yvinzo/NUMA/tree/main/Practica1)
 
-##Tema2
+## Tema2
 
-##Tema3
+Aqui va el [Tema2](https://github.com/yvinzo/NUMA/tree/main/Tema2)
 
-##Tema4
+## Tema3
 
-##Tema5
+## Tema4
+
+## Tema5
 
